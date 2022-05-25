@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Website Development',
-    Svg: require('@site/static/img/undraw_typewriter.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         We create stunning websites that look clean & fresh in design, without compromising on the features & functionality of the website.
