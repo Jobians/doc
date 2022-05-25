@@ -2,7 +2,6 @@
 slug: introducing-jobians-projects
 title: Introducing Jobians Projects
 authors: jobians
-tags: [welcome]
 ---
 
 ![Introducing](https://raw.githubusercontent.com/Jobians/doc/main/blog/img/img1.png)
