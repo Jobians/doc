@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Bot Development',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         We are specialized in the development of Telegram Bot, Server and Database management, IT Analysis and Consultancy.
@@ -26,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We're experienced at creating successful APIs that meet your needs. We also provide integration services to combine different functions into innovative new solutions!
       </>
     ),
   },
