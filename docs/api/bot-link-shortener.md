@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Generating short URLs
+# Generating short URLs
 
 To generate a short URL, simply pass in a `url` query parameter to your Shorty installation:
 
