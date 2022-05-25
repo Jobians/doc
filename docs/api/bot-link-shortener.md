@@ -10,7 +10,7 @@ To generate a short URL, simply pass in a `url` query parameter to our Link Shor
 
 This will return a shortened URL such as:
 
-    http://url.jobians.top/5jq
+    https://url.jobians.top/5jq
 
 When a user opens the short URL they will be redirected to the long URL location.
 
