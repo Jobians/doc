@@ -4,30 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-  },
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Website Development',
+    Svg: require('@site/static/img/undraw_typewriter.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We create stunning websites that look clean & fresh in design, without compromising on the features & functionality of the website.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Bot Development',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We are specialized in the development of Telegram Bot, Server and Database management, IT Analysis and Consultancy.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Api Development',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
