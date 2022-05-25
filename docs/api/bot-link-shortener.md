@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Generating short URLs
 
-To generate a short URL, simply pass in a `url` query parameter to our Link Shortener api:
+To generate a short URL, simply pass in a `url` query parameter to our Link Shortener Api:
 
     https://url.jobians.top/?url=https://www.money.com
 
