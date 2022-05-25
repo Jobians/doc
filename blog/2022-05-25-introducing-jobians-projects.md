@@ -1,8 +1,8 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: introducing-jobians-projects
+title: Introducing Jobians Projects
 authors: jobians
-tags: [hello, docusaurus]
+tags: [welcome]
 ---
 
 This is the summary of a very long blog post,
