@@ -90,10 +90,6 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Telegram Channel',
-                href: 'https://t.me/jobianstechie',
-              },
-              {
                 label: 'Telegram',
                 href: 'https://t.me/jobianstechie',
               },
@@ -104,15 +100,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Useful Links',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/jobians',
+                label: 'Policy',
+                to: 'policy',
               },
             ],
           },
@@ -120,7 +116,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Jobians, Inc.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
