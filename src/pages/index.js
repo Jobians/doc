@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://t.me/jobianstechie">
-            Contact Me Now ✉️
+            Contact Me Now 
           </Link>
         </div>
       </div>
