@@ -5,10 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    description: (
-      <>
-      </>
-    ),
   },
   {
     title: 'Easy to Use',
