@@ -5,7 +5,7 @@ authors: jobians
 tags: [welcome]
 ---
 
-![Introducing](https://github.com/Jobians/doc/blob/ea5181fabc0eaf46a2e02b09e84c6240d9de2a05/blog/img/images%20(3).png)
+![Introducing](blog/img/img1.png)
 This is the summary of a very long blog post,
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
