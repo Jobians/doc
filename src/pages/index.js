@@ -29,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} Docs Website`}
+      title={`Docs Website`}
       description="Website, Api, Software and Telegram bot development agency">
       <HomepageHeader />
       <main>
