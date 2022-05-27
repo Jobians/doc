@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Policy',
-                to: '/blog',
+                to: '/privacy',
               },
             ],
           },
