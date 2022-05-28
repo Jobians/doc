@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Jobians',
   tagline: 'Software and Telegram bot development agency',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://dev.jobians.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
